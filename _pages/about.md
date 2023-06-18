@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-KangKang is a software Eng who wants to grow through:
+KangKang is a software Eng who long for grow through:
 - Deep thinking to merge improvement changes into the life branch.
 - Deep work using the skills recorded in this Blog.
 
