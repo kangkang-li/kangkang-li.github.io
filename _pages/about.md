@@ -15,3 +15,4 @@ I believe like-minded Engs are around us who echos the thoughts in mind.
 - [linghao.io blog](https://linghao.io/): inspired me in creating this blog.
 - [benkuhn.net blog](https://www.benkuhn.net/): echos with me in most articles.  
 - [Reverie Jekyll Web template](https://github.com/amitmerchant1990/reverie) as the web backbone.
+- Lang Liu for designing the icon.
