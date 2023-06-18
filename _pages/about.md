@@ -10,7 +10,7 @@ KangKang is a software Eng who wants to grow through:
 
 I believe like-minded Engs are around us who echos the thoughts in mind.
 
-## Acknowedged Links
+## Acknowledgment
 
 - [linghao.io blog](https://linghao.io/): inspired me in creating this blog.
 - [benkuhn.net blog](https://www.benkuhn.net/): echos with me in most articles.  
