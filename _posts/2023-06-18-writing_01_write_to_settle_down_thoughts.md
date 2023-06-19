@@ -9,7 +9,7 @@ categories: [writing]
 > (People) keep crashing into what they are blind to until the crashing leads them to adapt\
 > -- Principle by Ray Dalio
 
-I long for adaption to crashing in life and work, and writing seems like the corner I kept cutting but should stop decades ago.
+I long for adaption to crashing in life and work, and writing down the mental process seems like the step I kept skipping but should stop decades ago.
 
 ## Writing Forces Myself Staring into the Abyss
 Repeated problems in Life/work are handled sub-optimally or poorly despite:
