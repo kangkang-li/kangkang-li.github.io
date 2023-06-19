@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing 01 - Write to Settle Down Thoughts no date
-date: 2023-06-17
+date: 2023-06-19
 categories: [writing]
 ---
 
