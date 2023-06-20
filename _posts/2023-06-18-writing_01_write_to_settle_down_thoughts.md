@@ -2,7 +2,7 @@
 layout: post
 title: Writing 01 - Write to Settle Down Thoughts
 date: 2023-06-18
-# last_modified_at: 2023-06-20
+last_modified_at: 2023-06-19
 categories: [writing]
 ---
 
@@ -38,10 +38,12 @@ I thought I could:
 
 Sometimes I did, and many times I did not.
 
-I thought writing is like an evitable and tedious process as long as I process all the info through all the steps in my mind.
+I thought writing is like an evitable and tedious process:
+- It works the same as long as I process all the info through all the steps in my mind.
+- Converting info from my mind to paper does not help solve a problem, and is not worth the effort.
 
 I was wrong, for a long time.\
-Writing is a corner I should stop cutting.
+Skipping the step of writing down the mental process is cutting corners during adaptions which I should stop decades ago.
 
 Bias for action!
 
