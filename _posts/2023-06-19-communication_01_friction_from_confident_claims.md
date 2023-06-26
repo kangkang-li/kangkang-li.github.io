@@ -49,7 +49,7 @@ The adaption of the expectation helps with prioritization and time estimation. F
 
 ## Afterword
 Looking back at the problem, I feel funny that the reasoning is so simple, but took so much time.\
-I read words like "don't expect people to agree easily", or "people are wired differently" so many times without much reflection.\
+I read words like "don't expect people to agree easily" or "people are wired differently" so many times without much feeling.\
 Now everything makes sense and agrees on this point.\
 Deep thinking helped me in the adaption, and was far not enough in past years.\
 This supports another blog ([Write to Settle Down Thoughts]({{site.baseurl}}/writing_01_write_to_settle_down_thoughts/)).
