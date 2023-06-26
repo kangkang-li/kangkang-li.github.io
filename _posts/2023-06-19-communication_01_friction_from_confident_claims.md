@@ -18,7 +18,7 @@ I rarely argued with senior colleagues since they are much more believable and I
 ## As My Tenure Grows
 
 After years of staying in a team, I became the contact person in some areas, and started to give comments, questions, and suggestions. Then my stupidity show began.
-- I argue in code review by a high bar, many times by readability.
+- I argued in code review by a high bar, many times by readability.
 - I asked people in following standard processes, which is absolutely right to me.\
 When people ignored or refused, as my manager said, I was frustrated.
 - I questioned designs or implementations, especially when I was confident, I pushed hard and argued hard, which caused friction.\
