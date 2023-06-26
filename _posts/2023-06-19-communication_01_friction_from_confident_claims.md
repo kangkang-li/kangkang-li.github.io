@@ -17,7 +17,7 @@ I rarely argued with senior colleagues since they are much more believable and I
 
 ## As My Tenure Grows
 
-After years of staying in a team, I became the contact person in some areas, and started to give comments, questions, and suggestions. Then my stupidity show began.\
+After years of staying in a team, I became the contact person in some areas, and started to give comments, questions, and suggestions. Then my stupidity show began.
 - I argue in code review by a high bar, many times by readability.
 - I asked people in following standard processes, which is absolutely right to me.\
 When people ignored or refused, as my manager said, I was frustrated.
@@ -32,7 +32,7 @@ There was quite a long time I believed the problem can only be mitigated by long
 Recently I realized I need a fundamental adaption: expect a journey to sell a disagreement.
 
 The conclusion I am confident in depends on various factors, including personal experience, problem understanding, priority, and expectation.\
-Any conflicting factor could lead to a completely different conclusion, and it takes a journey instead of a one-step correction.\
+Any conflicting factor could lead to a completely different conclusion, and it takes a journey instead of a one-step correction.
 
 The disagreement might not be resolved until all factors are addressed.\
 As a side topic, I started to realize it is a blessing to have collaborators who proactively explore disagreements and find/fill gaps, and I want to be one of them.
@@ -41,7 +41,7 @@ Notably, the effort to resolve a problem does not scale with the problem size. F
 
 There are also cases people ignore standards:
 - a low-credit project was left half-way by another person who left the team.
-- the writer had a near-miss in the past promotion, and is eager to deliver this time.\
+- the writer had a near-miss in the past promotion, and is eager to deliver this time.
 
 Honestly, I could have the same drive in this situation, and maybe it is the right thing to keep the bar, but the point here is that the agreement could be a non-short journey.
 
