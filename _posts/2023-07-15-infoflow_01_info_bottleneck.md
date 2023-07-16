@@ -34,7 +34,7 @@ As an IC, I need to sense the level of info degradation, especially for new/comp
 The processed info is smaller in size, more structured and more related to the task, so we should not only use raw info and ignore info processed at stages in between.
 
 My current understanding: 
-> the the key to mitigate info degradation is to find the bottleneck, and allocate my own bandwitdh to widen the info flowing through the bottleneck.
+> The the key to mitigate info degradation is to find the bottleneck, and allocate my own bandwitdh to widen the info flowing through the bottleneck.
 
 
 ## Pave reverse info-path to upstream
