@@ -21,10 +21,10 @@ In an ideal situation, people at each stage of an info flow:
 2. Consolidates correlated info
 3. Organized the info in a structure for their own tasks
 
-Ideally, all related info is structured from team leads and fed to an IC.
+Ideally, all related info is structured from leads and fed to an IC.
 
 In reality, information degrades at each stage: we never have enough time to read all docs or enough meetings.
-* Team leads might not need to collect all info IC might need for a project (could be wrong since I have never been a lead).
+* Leads might not need to collect all info IC might need for a project (could be wrong since I have never been a lead).
 * Leads naturally have more projects and less bandwidth in one project than ICs.   
 * What's worse, leads could be over-booked or relatively new to a certain problem.
 
