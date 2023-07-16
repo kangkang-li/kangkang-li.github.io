@@ -8,7 +8,7 @@ categories: [information flow]
 I am working in a big company and a team not directly facing customers.
 
 The info flows as: customer_escalation-->sales-->analytics/product/platform-->my_team(team leads-->IC(me)).\
-When I have the luxury of extra bandwidth to explore complicated but valuable problems, I harvested valuable findings from exploring upstream info, beyond the info I directly received from leads.
+When I have the luxury of extra bandwidth to explore complicated but valuable problems, I harvested valuable findings from exploring upstream info, beyond the info I directly received from top-down.
 
 This might be one of the most common problems Engs face, but surprisingly I did not read about this before.\
 (LMK if there is a related writing)
