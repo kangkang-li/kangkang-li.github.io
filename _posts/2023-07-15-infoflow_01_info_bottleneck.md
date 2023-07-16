@@ -26,15 +26,15 @@ Ideally, all related info is structured from team leads and fed to an IC.
 In reality, information degrades at each stage: we never have enough time to read all docs or enough meetings.
 * Team leads might not need to collect all info IC might need for a project (could be wrong since I have never been a lead).
 * Leads naturally have more projects and less bandwidth in one project than ICs.   
-* What's worse, leads could be over-booked or relatively new.
+* What's worse, leads could be over-booked or relatively new to a certain problem.
 
 As an IC, I need to sense the level of info degradation, especially for new/complex problems with a long info flow and low bandwidth from leads.
 
 ## Find the bottleneck
-The processed info is smaller in size, more structured and more related to the task, so we should not ignore info at later stages and only use the raw info.
+The processed info is smaller in size, more structured and more related to the task, so we should not only use raw info and ignore info processed at stages in between.
 
 My current understanding: 
-> the the key to mitigate info degradation is to find the bottleneck, and allocate my own bandwitdh to widen the info low through the bottleneck.
+> the the key to mitigate info degradation is to find the bottleneck, and allocate my own bandwitdh to widen the info flowing through the bottleneck.
 
 
 ## Pave reverse info-path to upstream
