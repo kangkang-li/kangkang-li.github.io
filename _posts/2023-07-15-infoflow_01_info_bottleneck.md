@@ -37,7 +37,7 @@ My current understanding:
 > the the key to mitigate info degradation is to find the bottleneck, and allocate my own bandwitdh to widen the info low through the bottleneck.
 
 
-## Keep parallel info-path
+## Pave reverse info-path to upstream
 As a common situation, leads at a stage of a top-down info-flow are the bottleneck, and we need to directly reach upstream info.\
 By no means we should bypass leads.\
 On the contrary, I invest in an additional info path to leads with trimmed and structured info adjusted to the current understanding.
