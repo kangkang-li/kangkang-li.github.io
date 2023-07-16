@@ -40,7 +40,7 @@ My current understanding:
 ## Pave reverse info-path to upstream
 As a common situation, leads at a stage of a top-down info-flow are the bottleneck, and we need to directly reach upstream info.\
 By no means we should bypass leads.\
-On the contrary, I invest in an additional info path to leads with trimmed and structured info adjusted to the current understanding.
+On the contrary, I invest in an additional info path back to leads with trimmed and structured info adjusted to the current understanding.
 
 We all have limited bandwidth, and it sounds like alot of investment.\
 Still, there are tasks and info worth the effort. 
