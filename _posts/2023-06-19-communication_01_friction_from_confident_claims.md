@@ -3,7 +3,7 @@ layout: post
 title: communication 01 - Friction from Confident Claims
 date: 2023-06-19
 last_modified_at: 2023-06-25
-categories: [writing]
+categories: [communication]
 ---
 
 Friction occurred when collaborators disagree with my claims which I am confident in.
